@@ -51,3 +51,4 @@ clear
 ls --color=auto
 cd note_modules
 cd node_modules
+ls --color=auto
