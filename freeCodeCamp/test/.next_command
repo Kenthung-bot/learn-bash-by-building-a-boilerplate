@@ -49,3 +49,5 @@ ls --color=auto
 more package.json
 clear
 ls --color=auto
+cd note_modules
+cd node_modules
