@@ -157,3 +157,4 @@ cp header.png images
 copy footer images
 cp footer.jpeg images
 cd images
+ls --color=auto
