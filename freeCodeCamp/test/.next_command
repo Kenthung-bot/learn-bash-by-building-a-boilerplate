@@ -119,3 +119,4 @@ touch
 ls --color=auto
 cd website
 touch .gitignore
+ls --color=auto
